@@ -11,7 +11,7 @@ Below are the endpoints available:
 
 # Setup
 1) `npm install`
-2) Create a .env file in the root directory with the following content:   
+2) Create a `.env` file in the root directory with the following content:   
 ```c
 URL=your_mongodb_connection_url
 ```
