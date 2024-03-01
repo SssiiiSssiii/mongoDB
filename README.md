@@ -13,6 +13,7 @@ Below are the endpoints available:
 1) `npm install`
 2) Create a `.env` file in the root directory with the following content:   
 ```c
-URL=your_mongodb_connection_url
+URL = your_mongodb_connection_url
+PORT = 3000
 ```
 3) Start the server `node index.js`.
